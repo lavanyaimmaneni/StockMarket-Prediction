@@ -5,7 +5,7 @@ The project uses Python programming language and various libraries such as NumPy
 
 Dependencis:
 
-Python 3.x
+Python 
 NumPy
 Pandas
 Matplotlib
